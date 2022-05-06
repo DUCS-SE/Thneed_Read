@@ -1,6 +1,4 @@
-# Thneed_Read
-## Project Description
-The Thneed_Read is an innovative application from the great minds at the Once-lers. The purpose of Thneed_Read will be to grade and evaluate a tree's value in terms of raw materials and the industry the perform best in so you get the value. 
+# Thneed-Read
+To access the project. Click the wiki tab on Github to access the pages we created. 
 
-## Table of Contents
- - [System Inception](SystemInception.md) 
+The images for our project are also located in a folder on the main repo so that they can be accessed individually.
